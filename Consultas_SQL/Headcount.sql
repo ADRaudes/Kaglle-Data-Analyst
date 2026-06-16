@@ -33,6 +33,7 @@ FROM Genero_Empleados g
     INNER JOIN departments n
         ON n.dept_no = g.dept_no
     GROUP BY n.dept_name;
+    
 -- cuales son los cargos mas famosos?
 SELECT title, 
         COUNT (emp_no) AS cargos 

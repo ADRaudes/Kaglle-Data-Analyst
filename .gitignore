@@ -217,3 +217,10 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .DS_Store
+
+# Archivos temporales de Excel
+~$*.xlsx
+~$*.xls
+
+# Configuración local de VS Code
+.vscode/
