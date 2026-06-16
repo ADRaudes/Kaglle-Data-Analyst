@@ -30,7 +30,6 @@ Proyecto de análisis de datos de punta a punta sobre la fuerza laboral de una e
 - [Módulo SQL](#módulo-sql)
 - [Módulo Excel](#módulo-excel)
 - [Hallazgos clave](#hallazgos-clave)
-- [Visualizaciones](#visualizaciones)
 - [Cómo reproducir](#cómo-reproducir)
 - [Habilidades demostradas](#habilidades-demostradas)
 - [Autor](#autor)
@@ -176,19 +175,6 @@ Los 11 CSV se importan al libro **`Analisis_RRHH.xlsx`** con Power Query, y cada
 
 - Mejor pagado: **Tokuyasu Pesch** (Sales, Senior Staff) con **$158.220**.
 - Más veterano: **Tonny Butterworth** (Customer Service), en la empresa desde **1985**.
-
----
-
-## Visualizaciones
-
-> Aquí van las capturas de las hojas del libro (muy recomendable para portafolio y LinkedIn). Guarda las imágenes en `Excel/capturas/` y quita los comentarios de las líneas de abajo.
-
-<!--
-![Plantilla](Excel/capturas/plantilla.png)
-![Salarios](Excel/capturas/salarios.png)
-![Tendencias](Excel/capturas/tendencias.png)
-![Destacados](Excel/capturas/destacados.png)
--->
 
 ---
 
