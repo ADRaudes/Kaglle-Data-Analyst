@@ -224,3 +224,7 @@ __marimo__/
 
 # Configuración local de VS Code
 .vscode/
+
+# Material de LinkedIn (solo local, no se sube a GitHub)
+post_linkedin.md
+Linkedin*/

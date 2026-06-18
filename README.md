@@ -100,7 +100,6 @@ Kaglle-Data-Analyst/
 ├── Excel/
 │   ├── Analisis_RRHH.xlsx     # Libro con tablas dinámicas y gráficos
 │   └── CSV_Exportados/        # 11 CSV exportados desde SQL (alimentan el libro)
-├── post_linkedin.md           # Borrador de publicación para LinkedIn
 ├── LICENSE                    # Licencia MIT
 └── README.md
 ```
